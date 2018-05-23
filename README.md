@@ -1,5 +1,5 @@
 # hello-world
-<h1>Hey!</h1>
+<h3><i>Hey!</i></h3>
 Hi! 
 <br>
 My name is Etienne, <br>Paris based & new in GitHUb!
