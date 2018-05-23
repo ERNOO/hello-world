@@ -4,8 +4,9 @@ Hi!
 <br>
 My name is Etienne, <br>Paris based & new in GitHub!
 <br>
-<ul>New goals:</ul>
-<li>-HTML</li>
-<li>-CSS</li>
-<li>-JS</li>
-<li>-JQuery</li>
+<br>
+<ul>Here are some of the new goals:</ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JS</li>
+<li>JQuery</li>
